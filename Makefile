@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: ncolomer <ncolomer@student.42.fr>          +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/10/29 12:45:02 by ncolomer          #+#    #+#              #
-#    Updated: 2019/11/12 16:37:58 by ncolomer         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 SRCS			=	main.c cub3d.c game.c bmp.c \
 					config/config.c config/map.c config/map_check.c \
 					config/parse_params.c config/parse_texture.c \
